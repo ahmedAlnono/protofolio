@@ -256,7 +256,7 @@ ul[expanded=true]{
     -webkit-text-fill-color:transparent;
     -webkit-text-stroke: 1px rgb(255, 255, 255);
     cursor:pointer;
-    transition-duration: 2s;
+    transition-duration: 5s;
     font-size:40px;
     position:relative;
   }
